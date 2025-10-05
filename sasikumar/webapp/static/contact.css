@@ -1,0 +1,42 @@
+body{
+    background-image:url(contactback.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 20px;
+}
+
+a{
+    padding: 15px;
+    color:whitesmoke;
+    position: relative;
+    left: 1100px;
+    top: 20px;
+    font-size: 20px;
+}
+.bottom{
+    font-size: 30px;
+    text-align: center;
+    background-color: rgba(37, 0, 0, 0.768);
+    position: relative;
+    top: 200px;
+    color: white;
+}
+.contanct-container{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(229, 229, 229);
+    height:400px;
+    width:410px;
+    display: block;
+    gap: 20px;
+    font-size: 20px;
+    position: relative;
+    left: 600px;
+    top:20px;
+    border-radius: 10%;
+}
+h2,h3,h4{
+    font-size: 27px;
+}
